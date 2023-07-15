@@ -6,7 +6,7 @@ Technology are used
  - Html
  - css
  - javascript
-
+- scss
 
 
 
