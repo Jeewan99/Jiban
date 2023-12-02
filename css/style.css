@@ -184,7 +184,7 @@ textarea {
   display: none; }
 
 .home-hero {
-  color: #fff;
+  color: green;
   background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
   background-position: center;
   height: 100vh;
